@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateA-Bold.otf") format("opentype"),
+    }
+
+    h1 {
+        font-family: 'CustomFont', Arial, sans-serif;
+        font-weight:normal;
+        font-style:normal;
+        }    
