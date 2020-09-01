@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'CorporateA-Bold';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateA-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateA-Regular';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateA-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'CorporateACon-Reg';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateACon-Reg.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateATOT-BolIta';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateATOT-BolIta.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateATOT-Dem';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateATOT-Dem.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateATOT-DemIta';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateATOT-DemIta.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateATOT-Lig';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateATOT-Lig.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateATOT-LigIta';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateATOT-LigIta.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateATOT-RegIta';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateATOT-RegIta.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateS-Demi';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateS-Demi.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateS-Light';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateS-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateS-Regular.otf';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateS-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateSTOT-Bol';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateSTOT-Bol.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateSTOT-DemIta';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateSTOT-DemIta.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'CorporateSTOT-RegIta';
+    src: url('https://github.com/duyduc27/Fonts/raw/master/My%20font/CorporateSTOT-RegIta.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+
+}
